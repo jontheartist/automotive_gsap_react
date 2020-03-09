@@ -11,18 +11,24 @@ const Navigation = () => {
                         <div className="nav-label">Menu</div>
                         <ul className="nav-links">
                             <li>
-                                <NavLink to="/case-studies" exact>
+                                <NavLink to='/case-studies' exact>
                                     Case Studies
-                                 </NavLink>
-                                <NavLink to="/approach" exact>
+                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink to='/approach' exact>
                                     Approach
-                                 </NavLink>
-                                <NavLink to="/services" exact>
+                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink to='/services' exact>
                                     Services
-                                 </NavLink>
-                                <NavLink to="/about-us" exact>
-                                    About Us
-                                 </NavLink>
+                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink to='/about-us' exact>
+                                    About us
+                </NavLink>
                             </li>
                         </ul>
                     </div>
@@ -42,13 +48,13 @@ const Navigation = () => {
                             </ul>
                             <ul className="nav-info">
                                 <div className="nav-info-label">Headquarters</div>
-                                <li>Route du Jura 49</li>
-                                <li>1700 Fribourg</li>
-                                <li>Switzerland</li>
+                                <li>Belsize Road</li>
+                                <li>25 Street </li>
+                                <li>Mayfair, London</li>
                             </ul>
                             <ul className="nav-info">
                                 <div className="nav-info-label">Phone</div>
-                                <li>+34 4324 3223</li>
+                                <li>+ 208 324 5433</li>
                             </ul>
                             <ul className="nav-info">
                                 <div className="nav-info-label">Legal</div>
