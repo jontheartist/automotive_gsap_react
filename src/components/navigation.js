@@ -1,15 +1,14 @@
-import React from 'react'
+import React from "react";
 import { NavLink } from "react-router-dom";
-
 
 const Navigation = () => {
   return (
     <nav>
-      <div class="container">
-        <div className="nav-columns">
-          <div className="nav-column">
-            <div className="nav-label">Menu</div>
-            <ul className="nav-links">
+      <div className='container'>
+        <div className='nav-columns'>
+          <div className='nav-column'>
+            <div className='nav-label'>Menu</div>
+            <ul className='nav-links'>
               <li>
                 <NavLink to='/case-studies' exact>
                   Case Studies
@@ -17,7 +16,7 @@ const Navigation = () => {
               </li>
               <li>
                 <NavLink to='/approach' exact>
-                  Approach
+                  Future Cars
                 </NavLink>
               </li>
               <li>
@@ -32,43 +31,42 @@ const Navigation = () => {
               </li>
             </ul>
           </div>
-          <div className="nav-column">
-            <div className="nav-label">Contact</div>
-            <div className="nav-infos">
-              <ul className="nav-info">c
-                <div className="nav-info-label">Email</div>
+          <div className='nav-column'>
+            <div className='nav-label'>Contact</div>
+            <div className='nav-infos'>
+              <ul className='nav-info'>
+                <li className='nav-info-label'>Email</li>
                 <li>
                   <NavLink to='/contact' exact>
-                    Get in touch with us.
+                    Get in touch with us
                   </NavLink>
                 </li>
                 <li>
                   <NavLink to='/audit' exact>
-                    Get a free audit
+                    Book a tour
                   </NavLink>
                 </li>
               </ul>
-              <ul className="nav-info">
-                <div className="nav-info-label">Headquarters</div>
-                <li>Belsize Road</li>
-                <li>25 Street </li>
-                <li>Mayfair, London</li>
+              <ul className='nav-info'>
+                <li className='nav-info-label'>Headquarter</li>
+                <li>Route du Jura 49</li>
+                <li>1700 Fribourg</li>
+                <li>Switzerland</li>
               </ul>
-              <ul className="nav-info">
-                <div className="nav-info-label">Phone</div>
-                <li>+ 208 324 5433</li>
+              <ul className='nav-info'>
+                <li className='nav-info-label'>Phone</li>
+                <li>+41 (0) 79 510 28 70</li>
               </ul>
-              <ul className="nav-info">
-                <div className="nav-info-label">Legal</div>
-                <li>Privacy and Cookies</li>
+              <ul className='nav-info'>
+                <li className='nav-info-label'>Legal</li>
+                <li>Privacy & Cookies</li>
               </ul>
             </div>
-
           </div>
         </div>
       </div>
     </nav>
-  )
-}
+  );
+};
 
-export default Navigation
+export default Navigation;
