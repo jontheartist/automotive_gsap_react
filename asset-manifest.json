@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/automotive_gsap_react/static/css/main.412f7ad3.chunk.css",
+    "main.js": "/automotive_gsap_react/static/js/main.e958dfa6.chunk.js",
+    "main.js.map": "/automotive_gsap_react/static/js/main.e958dfa6.chunk.js.map",
+    "runtime-main.js": "/automotive_gsap_react/static/js/runtime-main.a3579c33.js",
+    "runtime-main.js.map": "/automotive_gsap_react/static/js/runtime-main.a3579c33.js.map",
+    "static/js/2.1c102e4b.chunk.js": "/automotive_gsap_react/static/js/2.1c102e4b.chunk.js",
+    "static/js/2.1c102e4b.chunk.js.map": "/automotive_gsap_react/static/js/2.1c102e4b.chunk.js.map",
+    "index.html": "/automotive_gsap_react/index.html",
+    "precache-manifest.28512d1c52d60cc2d4922b9d0963945f.js": "/automotive_gsap_react/precache-manifest.28512d1c52d60cc2d4922b9d0963945f.js",
+    "service-worker.js": "/automotive_gsap_react/service-worker.js",
+    "static/css/main.412f7ad3.chunk.css.map": "/automotive_gsap_react/static/css/main.412f7ad3.chunk.css.map",
+    "static/js/2.1c102e4b.chunk.js.LICENSE.txt": "/automotive_gsap_react/static/js/2.1c102e4b.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/automotive_gsap_react/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/automotive_gsap_react/static/media/arrow-right.dc372a07.svg",
+    "static/media/aston.png": "/automotive_gsap_react/static/media/aston.3af21423.png",
+    "static/media/ferrari.png": "/automotive_gsap_react/static/media/ferrari.870c9fe2.png",
+    "static/media/mercedes.png": "/automotive_gsap_react/static/media/mercedes.1cc69d4c.png",
+    "static/media/up-arrow-circle.d6c4e78d.svg": "/automotive_gsap_react/static/media/up-arrow-circle.d6c4e78d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3579c33.js",
+    "static/js/2.1c102e4b.chunk.js",
+    "static/css/main.412f7ad3.chunk.css",
+    "static/js/main.e958dfa6.chunk.js"
+  ]
+}
